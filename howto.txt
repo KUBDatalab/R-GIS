@@ -58,5 +58,12 @@ git pull https://github.com/KUBDatalab/styles
 Og nu bliver det svært. Fix eventuelle merge conflicts. Det skal vi nok have en separat note om...
 git push -u origin update-styles
 
+
+Gå til din fork af siden (https://github.com/chrbknudsen/R-packages/tree/update-styles)
+compare and pull request
+Create pull request
+Merge  på master siden (https://github.com/KUBDatalab/R-packages)
+Med mindre der er konflikter - så skal de selvfølgelig fixes.
+Bum - kursussiden er opdateret med seneste rettelser til styles.
 Noget af det bør kunne automatiseres. Man kan lade sig inspirere her:
 https://github.com/carpentries-incubator/git-novice-branch-pr/blob/gh-pages/.github/workflows/update-styles.yml

@@ -42,7 +42,10 @@ Christian har kunne identificere.
 #### Hvordan redigerer jeg den så? ####
 Klon siden til dit egen profil på github.
 Lav dine sider i mappen "_episodes". Der er en demoside. Nummerer dem fra 01-introduction via 02-something til hvor mange du nu skal lave.
+Husk at siderne skal skrives i markdown. Med mindre du er ved at lave et R-kursus. Så kan du skrive i R-markdown. Filerne skal så gemmes i mappen 
 Commit siderne til dit eget repo
 Klik på pull requests
 Etc. Tag evt github kurset
 Der skal også rettes ting i "_config.yml" filen
+
+

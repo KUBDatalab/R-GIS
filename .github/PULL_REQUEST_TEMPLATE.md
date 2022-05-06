@@ -4,14 +4,15 @@
 Thanks for contributing! :heart:
 
 
+These courses are open for everyone to work with, but are primarily intended for
+the courses we offer in KUB Datalab. We welcome every contribution, large or small
+from the public, but reserve the right to prioritise contributions that improve
+our own teaching.
 
-Keep in mind that **lesson maintainers are volunteers** and it may take them some time to
-respond to your contribution. Although not all contributions can be incorporated into the lesson
-materials, we appreciate your time and effort to improve the curriculum. If you have any questions
-about the lesson maintenance process or would like to volunteer your time as a contribution
-reviewer, please contact The kubdatalab Team at kubdatalab@kb.dk.
+If you have any questions about the lesson maintenance process or would like to 
+contribute, please contact The KUB Datalab Team at kubdatalab@kb.dk.
 
 You may delete these instructions from your comment.
 
-\- The Carpentries
+\- The KUB Datalab
 </details>

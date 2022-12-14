@@ -1,0 +1,38 @@
+---
+title: "Before we start"
+teaching: 10
+exercises: 5
+questions:
+- "FIX ME"
+objectives:
+- "FIX ME"
+keypoints:
+- "FIX ME"
+
+source: Rmd
+---
+
+```{r, include = FALSE}
+source("../bin/chunk-options.R")
+knitr_fig_path("01-")
+```
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+raster 
+
+https://datacarpentry.org/organization-geospatial/01-intro-raster-data/index.html
+
+og vektor data.
+
+https://datacarpentry.org/organization-geospatial/02-intro-vector-data/index.html
+
+
+Koordinater
+
+https://datacarpentry.org/organization-geospatial/03-crs/index.html
+
+{% include links.md %}

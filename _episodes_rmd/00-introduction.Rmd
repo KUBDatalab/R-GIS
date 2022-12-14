@@ -1,0 +1,32 @@
+---
+title: "Before we start"
+teaching: 10
+exercises: 5
+questions:
+- "FIX ME"
+objectives:
+- "FIX ME"
+keypoints:
+- "FIX ME"
+
+source: Rmd
+---
+
+```{r, include = FALSE}
+source("../bin/chunk-options.R")
+knitr_fig_path("00-")
+```
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+https://tmieno2.github.io/R-as-GIS-for-Economists/why-r-as-gis-for-economists.html#why-r-as-gis-for-economists
+
+
+https://datacarpentry.org/lessons/#geospatial-curriculum
+
+
+{% include links.md %}

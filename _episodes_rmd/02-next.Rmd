@@ -21,6 +21,8 @@ knitr_fig_path("02-")
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+Der er guf her: https://rweekly.org/2020-42.html
+
 https://datacarpentry.org/r-raster-vector-geospatial/
 
 https://tmieno2.github.io/R-as-GIS-for-Economists/why-r-as-gis-for-economists.html#why-r-as-gis-for-economists

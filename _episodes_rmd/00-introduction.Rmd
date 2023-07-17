@@ -22,6 +22,49 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
+datasættet:
+https://www.opendata.dk/city-of-frederiksberg/offentlige-toiletter-frederiksberg
+
+samt:
+https://beta.findtoilet.dk/feeds/municipality
+Se også 
+https://www.opendata.dk/blog/find-flere-data-med-datavejviser
+
+Samt, hvis ikke KK sender data:
+https://beta.findtoilet.dk/feeds/municipality
+Det er der filen København.csv kommer fra.
+
+Geographic Information Systems (GIS) is a field that involves the use of 
+computers to capture, store, manipulate, analyze, and visualize spatial data. 
+GIS technology allows users to create interactive maps and other geographic 
+visualizations, as well as to analyze and understand patterns and relationships 
+in spatial data.
+
+GIS has a wide range of applications in many different fields, including 
+geography, urban planning, environmental science, public health, business, and 
+more. Some examples of how GIS is used include:
+
+* Analyzing the impact of climate change on natural resources and communities
+* Planning the expansion of public transportation systems
+* Tracking the spread of infectious diseases
+* Analyzing market trends and customer behavior for businesses
+* Monitoring and managing natural disasters such as wildfires or hurricanes
+
+GIS is important because it allows us to better understand and analyze spatial 
+data, which can help us make more informed decisions and take more effective 
+actions. For example, GIS can be used to identify areas that are at high risk 
+for natural disasters, which can help governments and organizations take steps 
+to mitigate those risks. GIS can also be used to identify areas that are 
+underserved by public services, which can help policymakers allocate resources 
+more effectively.
+
+## What is spatial data? 
+
+Spatial data, in the context of GIS, refers to data that includes information about the location, shape, and characteristics of geographic features. This can include data about points, lines, and polygons, as well as data about the attributes of those features, such as their names, populations, and land use types.
+
+Spatial data is often stored in a geospatial data format, such as a shapefile or a GeoJSON file. These formats allow for the storage and manipulation of geographic features and their associated attributes. In R, there are several libraries that can be used to read, write, and manipulate spatial data, including sf, sp, and raster.
+
+One of the key features of spatial data is that it can be analyzed and visualized in relation to other spatial data sets. This allows for the creation of maps that show the spatial relationships between different features and the analysis of patterns and trends in the data. For example, a GIS analyst might use spatial data to identify areas with high levels of pollution and compare that data to population density to understand the potential health impacts.
 
 https://tmieno2.github.io/R-as-GIS-for-Economists/why-r-as-gis-for-economists.html#why-r-as-gis-for-economists
 

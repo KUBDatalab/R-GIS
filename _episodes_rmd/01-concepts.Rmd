@@ -35,4 +35,26 @@ Koordinater
 
 https://datacarpentry.org/organization-geospatial/03-crs/index.html
 
+
+
+I en GIS-sammenhæng (Geografiske Informationssystemer) refererer raster- og vektor-data til to forskellige metoder til at repræsentere geospatiale data.
+
+Raster-data består af et gitter af celler, også kendt som pixels, hvor hver celle repræsenterer et bestemt område på jordens overflade og indeholder en værdi, der angiver et specifikt attribut (f.eks. højde, temperatur, landdække). Raster-data er velegnet til kontinuerlige data og er ofte brugt i analyser af overfladeegenskaber, såsom klima- og terrænmodeller.
+
+Vektor-data, derimod, repræsenterer geospatiale objekter ved hjælp af punkter, linjer og polygoner. Punkter repræsenterer enkelte steder, såsom byer eller interessepunkter. Linjer repræsenterer linjære objekter, såsom veje og floder, mens polygoner repræsenterer arealobjekter, såsom landegrænser og søer. Vektor-data er velegnet til at repræsentere diskrete geografiske objekter og er ideelle til analyser, der involverer geometri og topologi.
+
+Kort sagt, i en GIS-sammenhæng er raster-data pixelbaserede og velegnet til kontinuerlige data, mens vektor-data er baseret på geometriske former og velegnet til diskrete geografiske objekter.
+
+Vi arbejder med data i særlige formater. Har vi eksempelvis 
+et antal punkter der refererer til grænser for et sogn, eller 
+positioner af pizzariaer, er det ikke nok at have dem i en 
+ordinær dataframe eller tibble. Vi skal have den ind i en 
+særlig udgave af dataframes, der kan indeholde de her 
+geometriske objekter. 
+
+Hvad skal eksemplet være? Vi bør nok have fat på en noget lavere
+opløst udgave af danmark.
+
+
+
 {% include links.md %}

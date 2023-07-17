@@ -13,9 +13,12 @@ keypoints:
 
 source: Rmd
 ---
+Pakke med kortdata på frankrig:
+https://github.com/BjnNowak/frex
 
 
 
+https://wfs-kbhkort.kk.dk/k101/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=k101%3Atoilet_tmf_kk&outputFormat=application%2Fjson
 
 
 Der er guf her: https://rweekly.org/2020-42.html

@@ -1,6 +1,7 @@
 ---
 title: Setup
 ---
+
 # Installing and loading the necessary R packages for working with GIS data
 
 We are going to assume that you have some knowledge of R, and that you have

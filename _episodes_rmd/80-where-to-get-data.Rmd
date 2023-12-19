@@ -1,0 +1,38 @@
+---
+title: "Where do we find data?"
+teaching: 10
+exercises: 5
+questions:
+- "FIX ME"
+objectives:
+- "FIX ME"
+keypoints:
+- "FIX ME"
+
+source: Rmd
+---
+
+```{r, include = FALSE}
+source("../bin/chunk-options.R")
+knitr_fig_path("80-")
+```
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+https://wfs-kbhkort.kk.dk/k101/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=k101%3Atoilet_tmf_kk&outputFormat=application%2Fjson
+
+https://ec.europa.eu/eurostat/web/gisco
+det er der giscoR henter data fra.
+
+
+Der er guf her: https://rweekly.org/2020-42.html
+
+https://datacarpentry.org/r-raster-vector-geospatial/
+
+https://tmieno2.github.io/R-as-GIS-for-Economists/why-r-as-gis-for-economists.html#why-r-as-gis-for-economists
+
+
+
+
+{% include links.md %}
